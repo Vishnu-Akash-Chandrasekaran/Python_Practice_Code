@@ -1,0 +1,6 @@
+f = open("besant.txt",'w')
+f.write("Python\n")
+f.write("Java\n")
+f.write("Networking\n")
+print("Data return to the file successfully")
+f.close()
